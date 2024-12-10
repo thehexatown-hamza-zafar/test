@@ -20,7 +20,8 @@ function addNumber (a,b){
 }
 
 function addThreeNumber(){
-console.lgw{1+3-4} ;
+console.log(1+3+2)
+}
 
 
 

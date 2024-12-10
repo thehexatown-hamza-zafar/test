@@ -2,6 +2,7 @@
 
 function printTableOfFiveInefficiently(n) {
   for (let i = 1; i <= n; i++) {
+    setTimeout(() => {}, 2000);
     let result = 0;
     for (let j = 0; j < 5; j++) {
       result += 1;
@@ -17,6 +18,14 @@ printTableOfFiveInefficiently(10);
 function addNumber (a,b){
   console.log(a+b) ;
 }
+
+function addThreeNumber(){
+console.lgw{1+3-4} ;
+
+
+
+addThreeNumber();
+
 
 
 addNumber(5,6);

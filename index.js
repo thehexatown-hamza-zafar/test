@@ -23,6 +23,7 @@ function addThreeNumber(){
 console.log(1+3+2)
 }
 
+console.log("hello word")
 
 
 addThreeNumber();

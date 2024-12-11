@@ -24,7 +24,7 @@ console.log(1+3+2)
 }
 
 console.log("hello word")
-consol.log("Hello world")
+console.log("Hello world")
 
 
 addThreeNumber();

@@ -6,7 +6,7 @@ function printTableOfFiveInefficiently(n) {
     let result = 0;
     for (let j = 0; j < 5; j++) {
       result += 1;
-      setTimeout(() => {}, 1000); // Add a 1ms delay
+      setTimeout(() => {}, 10000); // Add a 1ms delay
     }
     console.log(i * result);
   }

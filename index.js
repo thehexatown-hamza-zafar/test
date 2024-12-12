@@ -10,6 +10,8 @@ function printTableOfFiveInefficiently(n) {
     }
     console.log(i * result);
     console.log(i * result);
+    console.log(i * result);
+
   }
 }
 
